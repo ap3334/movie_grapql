@@ -1,7 +1,4 @@
 
-function Movies() {
-    return <div></div>;
-  }
-  
-  export default Movies;
-  
+export default function Movies() {
+    return (<div>This is Movies List</div>);
+}

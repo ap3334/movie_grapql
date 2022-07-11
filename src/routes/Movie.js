@@ -1,7 +1,7 @@
 
-function Movie() {
-    return <div></div>;
+export default function Movie() {
+    return <div>This is Movie details</div>;
   }
   
-  export default Movie;
+
   
